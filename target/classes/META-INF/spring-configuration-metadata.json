@@ -1,0 +1,29 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zhouyunji.testspring.MyProperties",
+      "name": "boy",
+      "type": "com.zhouyunji.testspring.MyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zhouyunji.testspring.MyProperties",
+      "defaultValue": 0,
+      "name": "boy.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zhouyunji.testspring.MyProperties",
+      "defaultValue": 0,
+      "name": "boy.length",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zhouyunji.testspring.MyProperties",
+      "name": "boy.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
